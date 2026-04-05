@@ -1,0 +1,11 @@
+# robots.txt — Aftab Raza | SEO Outreach Specialist
+# https://aftabrazaseoexpert.netlify.app
+
+User-agent: *
+Allow: /
+
+# Block unnecessary files from indexing
+Disallow: /cdn-cgi/
+
+# Sitemap location
+Sitemap: https://aftabrazaseoexpert.netlify.app/sitemap.xml
